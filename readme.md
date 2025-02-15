@@ -1,6 +1,6 @@
 # Advent of Code 2024
 
-My solutions in Python 3.9. [Advent of Code](https://adventofcode.com/) 
+Python 3.9 [Advent of Code](https://adventofcode.com/) 
 
 ## Results
 
