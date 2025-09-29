@@ -12,8 +12,8 @@ Python 3.9 [Advent of Code](https://adventofcode.com/)
 * [Day 6](Day6):⭐️⭐️
 * [Day 7](Day7):⭐️⭐️
 * [Day 8](Day8):⭐️
-* [Day 9](Day9):
-* [Day 10](Day10):
+* [Day 9](Day9):⭐️
+* [Day 10](Day10):⭐️
 * [Day 11](Day11):
 * [Day 12](Day12):⭐️
 * [Day 13](Day13):
